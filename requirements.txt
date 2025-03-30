@@ -1,4 +1,5 @@
 gradio
+gunicorn
 nltk
 sentence-transformers
 scikit-learn
