@@ -1,0 +1,4 @@
+gradio
+nltk
+sentence-transformers
+scikit-learn
